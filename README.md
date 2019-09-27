@@ -28,7 +28,7 @@
 #### 2) [Spirit8](https://sharsheevnursultan.github.io/spirit8/)
 #### 3) [JS Calculator](https://sharsheevnursultan.github.io/jscalc/)
 #### 4) [Hexal](https://sharsheevnursultan.github.io/hexal/)
-#### 5) [Todo List on React JS](https://sharsheevnursultan.github.io/todo-list/)
+#### 5) [Todo List on React JS](https://todo-list.nursultansharsheev.now.sh)
 ### Образование: 
 #### Среднее образование. Учился на курсах It-run на Front-End разработчика.  Длительность обучения 6 месяцев начиная с апреля 2019 года.
 ###### *Свободно разговариваю на кыргызском и русском языке. Английским владею на уровне понимания текста.*
